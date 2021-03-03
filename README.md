@@ -5,4 +5,6 @@ This repo releases the code and data in the paper: Beyond 3DMM Space: Towards Fi
 
 
 ## Fine-grained 3D Face (FG3D) Data
-FG3D contains 213,367 samples with rich variations in shapes and poses. It is constructed by 11,767 face scans from FRGC, BP4D and CASIA-3D and out-of-plane pose augmentation. Each sample contrains an image and its corrsponding registered 3D face.
+FG3D are constructed from FRGC, BP4D and CASIA-3D. We register and out-of-plane augment the three datasets, generating a large 3D dataset with 213,367 samples. Among FG3D, 90% subjects are used as the training set and the rest 10\% subjects are the testing set. 
+[BaiduYun]:
+[GoogleDrive]:
