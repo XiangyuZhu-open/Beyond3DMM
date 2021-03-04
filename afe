@@ -1,0 +1,21 @@
+[33mcommit 4223842b5dc782d9be18f27acb4a7241ce11fe88[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Xiangyu Zhu <68271301+XiangyuZhu-open@users.noreply.github.com>
+Date:   Thu Mar 4 10:42:31 2021 +0800
+
+    Update README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex ea17562..ad189e8 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -7,6 +7,10 @@[m [mThis repo releases the code and data in the paper: Beyond 3DMM Space: Towards Fi[m
+ ## Fine-grained 3D Face (FG3D) Data[m
+ FG3D are constructed from FRGC, BP4D and CASIA-3D. We register and out-of-plane augment the three datasets, generating a large 3D dataset with 213,367 samples. Among FG3D, 90% subjects are used as the training set and the rest 10\% subjects are the testing set. [m
+ [m
+[32m+[m[32m<p align="center">[m
+[32m+[m[32m  <img src="imgs/fg3d.jpg" alt="FG3D" width="750px">[m
+[32m+[m[32m</p>[m
+[32m+[m
+ [[BaiduYun]](https://pan.baidu.com/s/1HDjIIlKz-Z3gfnr8FEBk4A) (Extract Code: 0896).[m
+ [m
+ [[GoogleDrive-part1]](https://drive.google.com/drive/folders/1zmyekrHABO-eykloxM1z0TRiXTm7oM3r?usp=sharing),[[GoogleDrive-part2]](https://drive.google.com/drive/folders/1A6spIFydKoCOaINHNVb_wsSOq_7WDvvl?usp=sharing).[m
