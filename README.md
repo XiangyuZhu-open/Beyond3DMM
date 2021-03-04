@@ -6,7 +6,7 @@ This repo releases the code and data in the paper: Beyond 3DMM Space: Towards Fi
 
 ## Fine-grained 3D Face (FG3D) Data
 <p align="center">
-  <img src="images/fig-fg3d.png" alt="FG3D" width="750px">
+  <img src="images/fig-fg3d.png" alt="FG3D" width="550px">
 </p>
 
 FG3D are constructed from FRGC, BP4D and CASIA-3D. We register and out-of-plane augment the three datasets, generating a large 3D dataset with 213,367 samples. Among FG3D, 90% subjects are used as the training set and the rest 10\% subjects are the testing set. 
