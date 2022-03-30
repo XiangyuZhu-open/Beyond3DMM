@@ -1,5 +1,10 @@
 # Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction
 
+<p align="center">
+  <img src="images/fig-briefview.png" alt="demo" width="512px">
+</p>
+
+
 **\[Updates\]**
  - `2021.7.10`: Code relased.
 
