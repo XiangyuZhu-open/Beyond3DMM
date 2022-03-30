@@ -11,7 +11,7 @@
 ## Introduction
 This repo releases the code and data in the paper published in ECCV 2020: Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction (http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020beyond.pdf). 
 
-Abstract: Recently, deep learning based 3D face reconstruction methods have shown promising results in both quality and efficiency. However, most of their training data is constructed by 3D Morphable Model, whose space spanned is only a small part of the shape space. As a result, the reconstruction results lose the fine-grained geometry and look different from real faces. To alleviate this issue, we first propose a solution to construct large-scale fine-grained 3D data from RGB-D images, which are expected to be massively collected as the proceeding of hand-held depth camera. A new dataset Fine-Grained 3D face (FG3D) with $200$k samples is constructed to provide sufficient data for neural network training. Secondly, we propose a Fine-Grained reconstruction Network (FGNet) that can concentrate on shape modification by warping the network input and output to the UV space. Through FG3D and FGNet, we successfully generate reconstruction results with fine-grained geometry. The experiments on several benchmarks validate the effectiveness of our method compared to several baselines and other state-of-the-art methods. Code and dataset will be made publicly available.
+The reconstruction results of widely used 3DMM lose the fine-grained geometry and look different from real faces, we propose a Fine-Grained reconstruction Network (FGNet) that can concentrate on shape modification and generate reconstruction results with fine-grained geometry. 
 
 ## Getting started
 ### Requirements
