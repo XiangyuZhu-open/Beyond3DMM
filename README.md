@@ -6,7 +6,8 @@
 
 
 **\[Updates\]**
- - Code relased.
+ - The code and model of FGNet is released.
+ - The dataset of FG3D is released.
 
 ## Introduction
 This repo releases the code and data in the paper published in ECCV 2020: Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction (http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020beyond.pdf). 
