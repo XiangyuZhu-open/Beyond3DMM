@@ -29,10 +29,7 @@ In addition, I strongly recommend using Python3.6+ instead of older version for 
 ### Usage
 
 1. Clone this repo (this may take some time as it is a little big)
-    ```
-    ...
 
-    ```
 2. Build cython module (just one line for building)
    ```
    cd MM3D/cython
