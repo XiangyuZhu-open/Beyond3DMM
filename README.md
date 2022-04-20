@@ -39,10 +39,11 @@ In addition, I strongly recommend using Python3.6+ instead of older version for 
 1. Clone this repo (this may take some time as it is a little big)
 
 2. Copy following large models to models/
+
    https://github.com/XiangyuZhu-open/models/blob/fdb595cc1061fefe077d2f168924430adedbfe70/_checkpoint_epoch_22.pth.tar
    https://github.com/XiangyuZhu-open/models/blob/fdb595cc1061fefe077d2f168924430adedbfe70/shape_predictor_68_face_landmarks.dat
 
-2. Build cython module (just one line for building)
+3. Build cython module (just one line for building)
    ```
    cd MM3D/cython
    python3 setup.py build_ext -i
@@ -50,7 +51,7 @@ In addition, I strongly recommend using Python3.6+ instead of older version for 
    This is for accelerating depth estimation and PNCC render since Python is too slow in for loop.
    
     
-3. Run the `main.py` with arbitrary image as input
+4. Run the `main.py` with arbitrary image as input
     ```
     python3 main.py -f examples/images/test.jpg
     ```
