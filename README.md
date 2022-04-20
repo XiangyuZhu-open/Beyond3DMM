@@ -38,6 +38,10 @@ In addition, I strongly recommend using Python3.6+ instead of older version for 
 
 1. Clone this repo (this may take some time as it is a little big)
 
+2. Copy following large models to models/
+   https://github.com/XiangyuZhu-open/models/blob/fdb595cc1061fefe077d2f168924430adedbfe70/_checkpoint_epoch_22.pth.tar
+   https://github.com/XiangyuZhu-open/models/blob/fdb595cc1061fefe077d2f168924430adedbfe70/shape_predictor_68_face_landmarks.dat
+
 2. Build cython module (just one line for building)
    ```
    cd MM3D/cython
