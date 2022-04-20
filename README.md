@@ -38,7 +38,7 @@ In addition, I strongly recommend using Python3.6+ instead of older version for 
 
 1. Clone this repo (this may take some time as it is a little big)
 
-2. Copy following large models to models/
+2. Download the following large models to models/
 
    https://github.com/XiangyuZhu-open/models/blob/fdb595cc1061fefe077d2f168924430adedbfe70/_checkpoint_epoch_22.pth.tar
    https://github.com/XiangyuZhu-open/models/blob/fdb595cc1061fefe077d2f168924430adedbfe70/shape_predictor_68_face_landmarks.dat
